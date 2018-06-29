@@ -15,3 +15,7 @@ a change on newbranch
 now just a normal change on master branch
 nb
 sep
+do work on separate
+try out some things
+see if they work
+then merge with master
