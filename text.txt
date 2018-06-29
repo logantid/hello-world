@@ -12,4 +12,5 @@ on newbranch,whathappensifI push to github, then pull changes to separate?
 ok doing everything on separate
 a change on separate
 a change on newbranch
+now just a normal change on master branch
 
