@@ -7,3 +7,4 @@ Let's try again
 first attempt on separate branch
 currently on newbranch
 on separate, want to merge with newbranch
+on newbranch,whathappensifI push to github, then pull changes to separate?
