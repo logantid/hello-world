@@ -1,21 +1,2 @@
 This is a text file.
-Success!
-Can I do it again?
-It looks like no, what is going wrong?
-more changes
-once again
-Let's try again
-first attempt on separate branch
-currently on newbranch
-on separate, want to merge with newbranch
-on newbranch,whathappensifI push to github, then pull changes to separate?
-ok doing everything on separate
-a change on separate
-a change on newbranch
-now just a normal change on master branch
-nb
-sep
-do work on separate
-try out some things
-see if they work
-then merge with master
+Erased it all.
