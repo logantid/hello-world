@@ -1,7 +1,5 @@
 This is a text file.
-<<<<<<< HEAD
 Erased it all.
-=======
 Success!
 Can I do it again?
 It looks like no, what is going wrong?
@@ -18,4 +16,4 @@ a change on newbranch
 now just a normal change on master branch
 nb
 sep
->>>>>>> parent of 06f3c19... work on sep
+
